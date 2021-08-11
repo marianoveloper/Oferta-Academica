@@ -1,0 +1,7 @@
+#robots.txt for http://ofertaeducativa.uccuyo.edu.ar
+
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /documentos/
+Disallow: /img/
