@@ -76,7 +76,7 @@ p {
 /* Header --------------------------------------------------------*/
 .navbar-toggle {
 	background-color: #E31919;/*#DE4B4B !important;*/
-	border-color: #444 !importan;
+	border-color: #444 !important;
 }
 .top-info {
 	background: #2D3E50;
@@ -169,7 +169,7 @@ header {
 
 /* intro --------------------------------------------------------*/
 #intro {
-	background: url("../img/bg-intro.jpg") repeat scroll center top transparent;
+	background: url("../img/bg-nueva2.png") repeat scroll center top transparent;
 	padding: 16px 0;
 }
 #intro * {
@@ -215,8 +215,9 @@ header {
 }
 .btns-group .btn {
 	margin-bottom: 14px;
-	margin-right: 22px;
-	width: 200px;
+	margin-right: 12px;
+	/*width: 200px;*/
+	flex:auto;
 }
 .btn-lg {
 	border-radius: 3px 3px 3px 3px;
